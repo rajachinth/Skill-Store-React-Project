@@ -1,0 +1,12 @@
+.cardStyle {
+  width: 200px;
+  height: auto;
+  margin: 0 40px;
+}
+
+@media (max-width: 500px) {
+  .cardStyle {
+    width: 60%;
+    margin-left: 20%;
+  }
+}

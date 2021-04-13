@@ -1,0 +1,18 @@
+.cardStyle {
+  width: 50%;
+  margin-left: 25%;
+}
+
+@media (max-width: 480px) {
+  .cardStyle {
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .cardStyle {
+    width: 70%;
+    margin-left: 15%;
+  }
+}
